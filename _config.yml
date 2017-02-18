@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: tb1210582007@126.com
 description: "Tobyyi-2017"
 keyword: ""
-url: "http://www.heilqt.com"              # your host, for absolute URL
+url: "https://heilqtorg.github.io"              # your host, for absolute URL
 baseurl: "/toby20130333.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
